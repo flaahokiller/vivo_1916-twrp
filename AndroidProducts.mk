@@ -17,4 +17,4 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_1916.mk
 
-#COMMON_LUNCH_CHOICES := ginkgo_olive-eng
+#COMMON_LUNCH_CHOICES := 1916_omni-eng

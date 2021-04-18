@@ -1,7 +1,7 @@
-# android_device_xiaomi_ginkgo
-For building TWRP for Xiaomi Redmi Note 8
+# android_device_vivo_1916-twrp
+For building TWRP for vivo1916
 
-TWRP device tree for Xiaomi Redmi Note 8
+TWRP device tree for Vivo1916
 
 ## Features
 

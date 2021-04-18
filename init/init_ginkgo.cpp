@@ -52,11 +52,11 @@ void vendor_load_properties() {
     std::string device_hwversion = android::base::GetProperty("ro.boot.hwversion", "");
     if (device_region == "Global_B" && (device_hwversion == "18.39.0" || device_hwversion == "19.39.0"))
     {
-        load_properties("willow");
+        load_properties("1916");
     }
     else
     {
-        load_properties("ginkgo");
+        load_properties("1916");
     }
 }
 

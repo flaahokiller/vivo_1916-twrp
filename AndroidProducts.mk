@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_1916.mk
+    $(LOCAL_DIR)/omni_PD1928BF_EX.mk
 
 COMMON_LUNCH_CHOICES := PD1928BF_EX_omni-eng

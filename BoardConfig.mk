@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/vivo/1916
+DEVICE_PATH := device/vivo/PD1928BF_EX
 
 # Architecture
 TARGET_ARCH := arm64
@@ -92,7 +92,7 @@ BOARD_MKBOOTIMG_ARGS += --dtb $(TARGET_PREBUILT_DTB)
 #TARGET_USE_SDCLANG := true
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := 1916
+TARGET_OTA_ASSERT_DEVICE := PD1928BF_EX
 
 # Avb
 BOARD_AVB_ENABLE := true
@@ -124,7 +124,7 @@ TARGET_COPY_OUT_VENDOR := vendor
 
 #Init
 TARGET_INIT_VENDOR_LIB := libinit_1916
-TARGET_RECOVERY_DEVICE_MODULES := libinit_1916
+TARGET_RECOVERY_DEVICE_MODULES := libinit_PD1928BF_EX
 TARGET_PLATFORM_DEVICE_BASE := /devices/soc/
 
 # Recovery

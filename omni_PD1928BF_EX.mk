@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := 1916
+PRODUCT_RELEASE_NAME := PD1928BF_EX
 
 $(call inherit-product, build/target/product/embedded.mk)
 $(call inherit-product, build/target/product/core_64_bit.mk)
@@ -23,11 +23,11 @@ $(call inherit-product, build/target/product/core_64_bit.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := 1916
-PRODUCT_NAME := omni_1916
-PRODUCT_BRAND := Vivo
-PRODUCT_MODEL := Vivo U10
-PRODUCT_MANUFACTURER := VIVO
+PRODUCT_DEVICE := PD1928BF_EX
+PRODUCT_NAME := omni_PD1928BF_EX
+PRODUCT_BRAND := vivo
+PRODUCT_MODEL := vivo 1916
+PRODUCT_MANUFACTURER := vivo
 
 # HACK: Set vendor patch level
 PRODUCT_PROPERTY_OVERRIDES += \

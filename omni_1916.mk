@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := PD1928BF_EX
+PRODUCT_RELEASE_NAME := 1916
 
 $(call inherit-product, build/target/product/embedded.mk)
 $(call inherit-product, build/target/product/core_64_bit.mk)
@@ -23,8 +23,8 @@ $(call inherit-product, build/target/product/core_64_bit.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := PD1928BF_EX
-PRODUCT_NAME := omni_PD1928BF_EX
+PRODUCT_DEVICE := 1916
+PRODUCT_NAME := omni_1916
 PRODUCT_BRAND := vivo
 PRODUCT_MODEL := vivo 1916
 PRODUCT_MANUFACTURER := vivo

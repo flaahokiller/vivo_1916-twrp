@@ -1,1 +1,1 @@
-add_lunch_combo omni_PD1928BF_EX-eng
+add_lunch_combo omni_1916-eng
